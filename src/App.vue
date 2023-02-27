@@ -124,8 +124,6 @@ export default {
   });
 </script>
 
-<script async defer src="https://analytics.umami.is/script.js" data-website-id="8033a8cc-d9ad-4d2b-a424-1028ac51c3d2"></script>
-
 <style lang="scss">
 #app {
   width: 100%;
